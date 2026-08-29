@@ -44,6 +44,3 @@ Leeu FD 223044569
 Ntlati TT 224081629 
 Stallenberg BC  224081442 
 
-
-## 📄 License & Project Scope
-This project is developed as part of academic coursework for the **Faculty of Engineering, Built Environment and Information Technology** at the **Central University of Technology (CUT)**[cite: 1]. All personal data handling complies with South African POPIA regulations[cite: 1].
