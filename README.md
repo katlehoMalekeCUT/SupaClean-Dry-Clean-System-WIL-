@@ -33,17 +33,16 @@ Docket Cross-Referencing: Manual ticket-number linking to maintain continuity wi
 
 # Development Team (Group H) — Central University of Technology
 
-Masendeke CP  224043099 
-Mahlangu P 224014647 
-Maleke KT  222009259 
-Maema KE  224079714 
-Mojakwe KB  223032987 
-Moretlwe RK  221012635 
-Dasheka T  219007064 
-Leeu FD 223044569 
-Ntlati TT 224081629 
-Stallenberg BC  224081442 
+| Name | Student Number |
+|---|---|
+| Masendeke CP | 224043099 |
+| Mahlangu P | 224014647 |
+| Maleke KT | 222009*** |
+| Maema KE | 224079714 |
+| Mojakwe KB | 223032987 |
+| Moretlwe RK | 221012635 |
+| Dasheka T | 219007064 |
+| Leeu FD | 223044569 |
+| Ntlati TT | 224081629 |
+| Stallenberg BC | 224081442 |
 
-
-## 📄 License & Project Scope
-This project is developed as part of academic coursework for the **Faculty of Engineering, Built Environment and Information Technology** at the **Central University of Technology (CUT)**[cite: 1]. All personal data handling complies with South African POPIA regulations[cite: 1].
